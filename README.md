@@ -13,17 +13,17 @@ main scr.ipynb------>main code file
 report--------> report
 ### instructions
 
-## Running SageMath 9.5 with Jupyter Lab: Required Dependencies
+#### Running SageMath 9.5 with Jupyter Lab: Required Dependencies
 
 To run SageMath 9.5 in Jupyter Lab effectively, you may need to ensure the following dependencies are installed:
 
-### Python Packages
+##### Python Packages
 - `ipywidgets` for interactive widgets in Jupyter notebooks.
 
-### JavaScript Dependencies
+##### JavaScript Dependencies
 - Node.js is required for installing and managing some JupyterLab extensions that enhance interactivity.
 
-### Installation Commands
+##### Installation Commands
 
 ```bash
 # Install Jupyter Lab (if not installed)
