@@ -6,4 +6,8 @@ Through this tool, Users can intuitively see how the kernelization process gradu
 
 ### Exploring the Impact of Parameters
 
-Users can generate different graph instances by adjusting the number of vertices and sparsity parameters. This helps them understand how these graph characteristics affect the kernelization process and the final outcome. For example, they can explore the impact of the same `k` value on vertex cover and the existence of Hamiltonian cycles at different sparsity levels.
+Users can generate different graph instances by adjusting the number of vertices and sparsity parameters. This helps them understand how these graph characteristics affect the kernelization process and the final outcome. 
+### description of the repository contents
+main scr.ipynb------>main code file 
+report--------> report
+
